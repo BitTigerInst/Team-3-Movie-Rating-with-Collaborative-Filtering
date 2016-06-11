@@ -32,3 +32,4 @@ This project is distributed under the [MIT liscense](https://github.com/BitTiger
 - Team: Team 3
 - Description:  Build up a model of high-correctness to recommend movies to a user
 - Stack: Apache Spark
+- 
